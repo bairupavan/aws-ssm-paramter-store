@@ -10,6 +10,7 @@ parameters = [
   {name = "dev.catalogue.mongo_url", value = "mongodb://mongodb-dev.pavanbairu.tech:27017/catalogue"},
   {name = "dev.catalogue.mongo", value = "MONGO=true"},
 
+  {name = "dev.user.mongodb_endpoint", value = "mongodb-dev.pavanbairu.tech"},
   {name = "dev.user.REDIS_HOST", value = "redis-dev.pavanbairu.tech"},
   {name = "dev.user.mongo_url", value = "mongodb://mongodb-dev.pavanbairu.tech:27017/users"},
   {name = "dev.user.mongo", value = "MONGO=true"},
