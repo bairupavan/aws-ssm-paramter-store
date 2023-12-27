@@ -38,4 +38,7 @@ passwords = [
   {name = "dev.payment.AMQP_PASSWORD", value = "roboshop123"},
   {name = "dev.docdb.db_user", value = "roboshop"},
   {name = "dev.docdb.db_password", value = "roboshop123"},
+  {name = "dev.rds.db_user", value = "roboshop"},
+  {name = "dev.rds.db_password", value = "roboshop123"},
+  { name = "dev.rabbitmq.rabbitmq_appuser_password", value = "roboshop123" },
 ]
